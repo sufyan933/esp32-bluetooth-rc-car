@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="car.jpg" alt="ESP32 RC Car build" width="600">
+  <img src="file_0000000013a08211ac73da3dd2593874.png" alt="ESP32 RC Car build" width="600">
   <br>
   <em>Replace this with a real photo of your build — save it at docs/images/car.jpg</em>
 </p>
